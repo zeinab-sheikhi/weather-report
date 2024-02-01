@@ -1,5 +1,6 @@
-weather-report
-This repository hosts a python implementation of a context-free grammar (CFG) to generate dynamic and diverse weather reports. Example of the reports:
+# weather-report
+This repository hosts a python implementation of a context-free grammar (CFG) to generate dynamic and diverse weather reports.
+Example of the reports:
 
 ● Weather forecast for tomorrow. In the morning, heavy rain is expected in Toulouse. Light air is noticeable (1 to 7 km/h). Winds blowing from Southeast. For the afternoon, light rain is expected in Marseille. A gentle breeze is expected (12 to 20 km/h). Winds blowing from Northwest. During the night, a lot of clouds are expected in Montpellier and Lyon. A gentle breeze is expected (12 to 20 km/h). Winds blowing from South.
 
